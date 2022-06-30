@@ -137,12 +137,10 @@ body {
 
         display: flex;
         flex-direction: row-reverse;
-        /* justify-content: center; */
-        /* align-items: center; */
     }
 
     .container .bg__img {
-        background-color: hsla(277, 100%, 78%, 0.692);
+        background-color: hsla(277, 78%, 55%, 0.692);
         background-image: url(./images/image-header-desktop.jpg);
         background-size: cover;
         background-repeat: no-repeat;
